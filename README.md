@@ -1,3 +1,3 @@
 # FrizBot
-git clone https://github.com/Elbegeto35/FrizBot.git
+gh repo clone Elbegeto35/FrizBot
 cd FrizBot
